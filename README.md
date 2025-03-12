@@ -6,10 +6,10 @@ Este repositorio es una práctica de un ejercico de Scraping, basado en la Maste
 Esta realizado con el framework Django y Dockerizado
 Mucha consola, mucha fantasía y viajes a mundos muy lejanos🚀
 
-![image.png](./files/scrapeandoo_Docker.png)
+![terminal_scraper](./files/scrapeandoo_Docker.PNG)
 
  >  <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/signados?size=40" alt="Github Profile pic Ana">
-  [¿te animas?](https://github.com/Factoria-F5-dev/webscraper)
+  [¿Te animas?](https://github.com/Factoria-F5-dev/webscraper)
 
 
 
